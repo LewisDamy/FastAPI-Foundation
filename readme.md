@@ -4,6 +4,7 @@ Welcome to the FastAPI Todo App project! This hands-on course will guide you thr
 production-ready RESTful API using FastAPI and Python. By the end of this course, you will have gained practical
 experience in developing APIs, building a Full Stack application, implementing authentication and authorization, setting
 up production-ready databases, and deploying your FastAPI application.
+[Here you can find the notes](https://persistent-branch-9d1.notion.site/FastAPI-65c7084836cf4e318b9e7ef9edece5b1) for the [FastAPI - The Complete Course 2024 (Beginner + Advanced)](https://www.udemy.com/course/fastapi-the-complete-course/).
 
 ## Prerequisites
 
